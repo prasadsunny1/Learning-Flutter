@@ -1,7 +1,7 @@
 # Flutter Playlist
 
 - [ ]  **Basics**
-    - [ ]  **VSCode Extensions (Optional) :-** [https://youtu.be/Nl2kmAbC0bg](https://youtu.be/Nl2kmAbC0bg)
+    - [x]  **VSCode Extensions (Optional) :-** [https://youtu.be/Nl2kmAbC0bg](https://youtu.be/Nl2kmAbC0bg)
     - [ ]  **Dart Basics (Must) :-** [https://youtu.be/0CTj3x6jgeY](https://youtu.be/0CTj3x6jgeY)
     - [ ]  **Calculator App :-** [https://youtu.be/Ss1HkZ3LnRY](https://youtu.be/Ss1HkZ3LnRY)
     - [ ]  **Material Chat App Design (Optional) :-** [https://youtu.be/Yd-bgqe3DxA](https://youtu.be/Yd-bgqe3DxA)
