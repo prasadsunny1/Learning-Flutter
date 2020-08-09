@@ -2,7 +2,7 @@
 
 - [ ]  **Basics**
     - [x]  **VSCode Extensions (Optional) :-** [https://youtu.be/Nl2kmAbC0bg](https://youtu.be/Nl2kmAbC0bg)
-    - [ ]  **Dart Basics (Must) :-** [https://youtu.be/0CTj3x6jgeY](https://youtu.be/0CTj3x6jgeY)
+    - [x]  **Dart Basics (Must) :-** [https://youtu.be/0CTj3x6jgeY](https://youtu.be/0CTj3x6jgeY)
     - [ ]  **Calculator App :-** [https://youtu.be/Ss1HkZ3LnRY](https://youtu.be/Ss1HkZ3LnRY)
     - [ ]  **Material Chat App Design (Optional) :-** [https://youtu.be/Yd-bgqe3DxA](https://youtu.be/Yd-bgqe3DxA)
     - [ ]  **Local JSON App (Must) :-** [https://youtu.be/bTwTKwK3hGc](https://youtu.be/bTwTKwK3hGc)
